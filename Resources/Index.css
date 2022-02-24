@@ -17,3 +17,15 @@ h4{
 .mintgreen{
     background-color: mediumspringgreen;
 }
+.coral{
+    background-color: lightcoral;
+
+}
+.blue{
+    background-color: lightskyblue;
+}
+.price{
+    font-family: helvetica;
+    font-weight: bold;
+    color:blue;
+}
